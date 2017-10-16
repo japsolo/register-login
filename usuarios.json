@@ -1,5 +1,2 @@
-{"id":1,"name":"Javi","lastname":"Her","email":"jh@gmail.com","username":"jhdh","password":"$2y$10$ShcA99x6ThirsctF5MERdeI\/zsdIGNR7BxhM2zb5kORNeNuZYSufa","gender":"M"}
-{"id":2,"name":"Kev","lastname":"Ghio","email":"kev@gmail.com","username":"kevdh","password":"$2y$10$eTgofvUJVoNNSA7a1fTgOOgO80gDpHOcf\/uLAv5afyDUQtiCkhwMO","gender":"M"}
-{"id":3,"name":"Ann","lastname":"Strange","email":"ann@gmail.com","username":"anndh","password":"$2y$10$QjulwVY3SCymxNPoOwqt3.eiWDxGTFHMzGMz3mmpPVu9qMz1TVccC","gender":"F"}
-{"id":4,"name":"Meli","lastname":"Amaike","email":"meli@dh.com","username":"melidh","password":"$2y$10$n.dafz8cMRpdrwlHhtBCkevB9GeHYpj.2UOXTB6OwSOYwPPwcoW6e","gender":"F"}
-{"id":5,"name":"Javi","lastname":"Her","email":"javier@digitalhouse.com","username":"javidh123","password":"$2y$10$6ttenPL73ioJsEDeCF\/f8O3cg4EMLdjOGbaEhpkUU9crJhbmdwoEe","gender":"M"}
+{"id":1,"name":"Javi","lastname":"Her","email":"jh@dh.com","username":"javidh","password":"$2y$10$YOR2j0w8tCQzTG8WamXqMOwdbrYpNbGhStzbC61czXUcYH2Xmw.QG","gender":"M"}
+{"id":2,"name":"Kev","lastname":"Ghio","email":"kev@dh.com","username":"kevdh","password":"$2y$10$iUs0s.a1HzZ1kbdNWo7jLO88SgcIV\/wnmaoV254kLCj7ya\/wM3dfC","gender":"M"}

@@ -42,6 +42,9 @@
 				// Guardo Usuario en JSON, recibe el array guardado en la variable de arriba
 				guardarUsuario($usuarioAGuardar);
 
+				// Logueo al usuario
+				$_SESSION['userId'] = $usuarioAGuardar['id'];
+
 				// Ok guardado, redireccionado
 				header('location: register-ok.php'); exit;
 			}
